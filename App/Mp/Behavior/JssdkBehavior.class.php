@@ -61,7 +61,7 @@ class JssdkBehavior extends Behavior {
 	        ]
 	      });
 		</script>
-		<script src='/Public/Common/js/jssdk.js'></script>
+		<script src='./Public/Common/js/jssdk.js'></script>
 		";
 	}
 }
